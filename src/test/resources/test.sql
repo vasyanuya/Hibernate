@@ -1,0 +1,1 @@
+insert into users (name, age, email) values ('Keks', 18, 'keks@devcolibri.com');
